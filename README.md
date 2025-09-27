@@ -50,6 +50,8 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+<img width="613" height="269" alt="image" src="https://github.com/user-attachments/assets/bc1e87dd-d433-4f2d-8eea-60a857c7cafd" />
+
 
 
 
