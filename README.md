@@ -31,6 +31,7 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+<img width="539" height="246" alt="image" src="https://github.com/user-attachments/assets/316be73e-c0b8-415f-adc1-0f1dc7b67527" />
 
 
 
